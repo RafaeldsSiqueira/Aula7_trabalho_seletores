@@ -1,0 +1,28 @@
+/*Titulo*/
+#title1 {
+  text-align: center;
+}
+/*main*/
+
+.Front-End {
+  color: rgb(46, 46, 195);
+}
+#click {
+  color: rgb(46, 46, 195);
+}
+
+#text_section {
+  background-color: rgb(97, 97, 234);
+  color: white;
+}
+/*lista ordenaada*/
+#line {
+  text-decoration: underline;
+  /*footer*/
+}
+#baseboard {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 8px;
+}
